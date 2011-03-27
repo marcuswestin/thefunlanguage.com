@@ -1,0 +1,14 @@
+{
+  "name": "thefunlanguage.com",
+  "description": "Homepage of the programming language Fun",
+  "version": "0.1.0",
+  "homepage": "https://github.com/marcuswestin/thefunlanguage.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/marcuswestin/thefunlanguage.git"
+  },
+  "author": "Marcus Westin <narcvs@gmail.com> (http://marcuswest.in)",
+  "dependencies": {
+    "fun": "= 0.2.0"
+  }
+}
